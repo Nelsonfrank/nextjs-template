@@ -1,0 +1,33 @@
+{
+  "name": "nextjs-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelsonfrank/nextjs-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nelsonfrank/nextjs-template/issues"
+  },
+  "homepage": "https://github.com/Nelsonfrank/nextjs-template#readme",
+  "dependencies": {
+    "next": "^12.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.12",
+    "@types/react": "^17.0.38",
+    "typescript": "^4.5.5"
+  }
+}
