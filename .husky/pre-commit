@@ -11,6 +11,14 @@ npm run format ||
     false;
 )
 
+# Check Prettier standards
+npm run test ||
+(
+    echo '🤢🤮🤢🤮 Running test🤢🤮🤢🤮
+            Unit Test Check Failed. Run npm run test, add changes and try commit again.';
+    false;
+)
+
 # Check ESLint Standards
 npm run check-lint ||
 (
