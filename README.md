@@ -6,3 +6,4 @@
 2. Add eslint, prettier and husky
 3. Configure unit test with jest and React Testing Library
 4. Add Tailwind css
+5. Add CI/CD integration with GitHub Actions
