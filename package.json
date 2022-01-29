@@ -12,7 +12,7 @@
     "check-format": "prettier --check .",
     "check-lint": "eslint . --ext ts --ext tsx --ext js",
     "format": "prettier --write . && git add .",
-    "test-all": "npm run check-format && npm run check-lint && npm run check-types && npm run build",
+    "check-all": "npm run check-format && npm run check-lint && npm run check-types && npm run build",
     "prepare": "husky install",
     "test": "jest",
     "test:watch": "jest --watch"
