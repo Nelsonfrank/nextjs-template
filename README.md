@@ -8,3 +8,4 @@
 4. Add Tailwind css
 5. Add storybook
 6. Add CI/CD integration with GitHub Actions
+7. Add themes
